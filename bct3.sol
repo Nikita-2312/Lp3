@@ -42,3 +42,4 @@ contract SecureWallet is ReentrancyGuard {
         return balances[_user];
     }
 }
+

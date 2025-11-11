@@ -48,3 +48,4 @@ contract StudentData {
         return address(this).balance;
     }
 }
+
